@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
+bin/
+obj/
+*.depend
+*.layout
+*.o
+*.exe
